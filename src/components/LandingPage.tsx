@@ -116,11 +116,11 @@ function LandingPage({ onNavigateToDemo }: LandingPageProps) {
               </div>
               <h3 className="text-xl font-bold text-gray-900 mb-2">Texnologiyalar</h3>
               <div className="flex flex-wrap gap-2 mt-4">
-                <span className="px-3 py-1 bg-blue-100 text-blue-700 rounded-full text-sm">React</span>
+                <span className="px-3 py-1 bg-blue-100 text-blue-700 rounded-full text-sm">JavaScript</span>
                 <span className="px-3 py-1 bg-blue-100 text-blue-700 rounded-full text-sm">TypeScript</span>
-                <span className="px-3 py-1 bg-blue-100 text-blue-700 rounded-full text-sm">Supabase</span>
-                <span className="px-3 py-1 bg-blue-100 text-blue-700 rounded-full text-sm">OpenAI GPT-4</span>
+                <span className="px-3 py-1 bg-blue-100 text-blue-700 rounded-full text-sm">React</span>
                 <span className="px-3 py-1 bg-blue-100 text-blue-700 rounded-full text-sm">TailwindCSS</span>
+                <span className="px-3 py-1 bg-blue-100 text-blue-700 rounded-full text-sm">OpenAI GPT-4</span>
                 <span className="px-3 py-1 bg-blue-100 text-blue-700 rounded-full text-sm">Python</span>
               </div>
             </div>
