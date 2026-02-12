@@ -104,9 +104,9 @@ function LandingPage({ onNavigateToDemo }: LandingPageProps) {
               <h3 className="text-xl font-bold text-gray-900 mb-2">Jamoamiz</h3>
               <div className="space-y-2 text-gray-700">
                 <p><strong>CEO & AI Architect:</strong> Shahboz Hamroqulov</p>
-                <p><strong>Lead Developer:</strong> Amanov Asadbek</p>
-                <p><strong>UX/UI Designer:</strong> Jasur Sharipov</p>
-                <p><strong>ML Engineer:</strong> Dilshod Tursunov</p>
+                <p><strong>Lead Developer:</strong> Muxtorov Maqsudbek</p>
+                <p><strong>UX/UI Designer:</strong> Amanov Asadbek</p>
+                <p><strong>ML Engineer:</strong> Hafizov Hasan</p>
               </div>
             </div>
 
